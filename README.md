@@ -2,6 +2,9 @@
 
 This repository contains a detailed analysis of customer churn for an organization, focused on identifying patterns and factors associated with churn. Customer churn is a critical issue that impacts business profitability, and understanding its causes can aid in devising strategies to improve customer retention. In this analysis, we examine demographic and behavioral factors linked to customer churn, using descriptive statistics and visualizations to highlight key insights. In a future update, a predictive model will be introduced to anticipate churn risk, allowing for proactive customer retention measures.
 
+![img](https://github.com/user-attachments/assets/7b3b4651-4454-4f04-a557-23c549cd6ac2)
+
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Dataset Information](#dataset-information)
