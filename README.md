@@ -1,7 +1,5 @@
 # Customer-Churn-Analysis-Insights-Predictive-Modeling
 
-# Customer Churn Analysis
-
 This repository contains a detailed analysis of customer churn for an organization, focused on identifying patterns and factors associated with churn. Customer churn is a critical issue that impacts business profitability, and understanding its causes can aid in devising strategies to improve customer retention. In this analysis, we examine demographic and behavioral factors linked to customer churn, using descriptive statistics and visualizations to highlight key insights. In a future update, a predictive model will be introduced to anticipate churn risk, allowing for proactive customer retention measures.
 
 ## Table of Contents
@@ -86,6 +84,10 @@ Based on the exploratory data analysis, several key insights were identified:
 
 4. **Service Types**:
    - Customers who subscribe to multiple services (e.g., both phone and internet) may exhibit different churn patterns compared to those with a single service, although further analysis is needed.
+
+![Pie Chart](https://github.com/user-attachments/assets/51ab5ebe-1419-4e29-99c8-78b39a1e55d9)
+- Based on the pie chart, we can conclude that 26.54% of our customers have churned. 
+
 
 ## Future Work
 Future analysis will involve building a predictive model to forecast customer churn. The model will use a combination of demographic, account, and service variables to identify customers with a high likelihood of churning, enabling proactive retention strategies. Planned steps include:
